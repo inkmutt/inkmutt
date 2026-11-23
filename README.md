@@ -1,6 +1,6 @@
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=4370&pause=200&color=FFEB3B&center=true&width=580&lines=hi+bro;+sorry+if+i+seem+dry+sumtimes;+im+lowkey+a+lazy+bum;+starry,+Ry,+and+shishou+are+the+best;and+also+cleo!" alt="Typing SVG"></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&duration=4370&pause=200&color=4F5C62&center=true&width=580&lines=blot+fictionkin!;+blot+yumes+dni;+this+is+an+alt+account" alt="Typing SVG"></a>
 </p>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
 
-<img width="200" height="177" alt="1912" src="https://github.com/user-attachments/assets/cdc5f178-d697-4970-8afa-ce8af22cf9d3" />
+<img width="253" height="253" alt="3719" src="https://github.com/user-attachments/assets/083c1f01-525b-4a10-a468-a5938ef15ec2" />
 
 </p>
 
