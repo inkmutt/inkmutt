@@ -16,6 +16,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dogstrider.straw.page">strawpage</a> <img width="20" height="20" alt="1916" src="https://github.com/user-attachments/assets/3b8acd4f-abe1-4178-a5fe-ab26114c84c9" />
+  <a href="https://dogstrider.straw.page">strawpage</a> <img width="20" height="20" alt="3721" src="https://github.com/user-attachments/assets/0a011a33-bf11-4885-8c81-28f289f9ca73" />
+
 
 </p>
