@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kennysheartholder&style=flat&color=3F51B5&label=losers+who+like+me&base=0&abbreviated=true" alt="GitHubProfileViews" width="200">
+  <img src="https://komarev.com/ghpvc/?username=Kennysheartholder&style=flat&color=192229&label=decoys&base=0&abbreviated=true" alt="GitHubProfileViews" width="100">
 </p>
 
 
@@ -16,11 +16,6 @@
 </p>
 
 <p align="center">
-3teen. Craig Tucker has been my comf character for around 5 years now.. flexes.
-
-</p>
-
-<p align="center">
-  <a href="https://github.com/pt-walk-of-fame">pts walk of fame</a> <img width="20" height="20" alt="1916" src="https://github.com/user-attachments/assets/3b8acd4f-abe1-4178-a5fe-ab26114c84c9" />
+  <a href="https://dogstrider.straw.page">strawpage</a> <img width="20" height="20" alt="1916" src="https://github.com/user-attachments/assets/3b8acd4f-abe1-4178-a5fe-ab26114c84c9" />
 
 </p>
