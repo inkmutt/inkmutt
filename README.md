@@ -20,3 +20,14 @@
 
 
 </p>
+
+<table align="center"><th>
+<details><summary> <br>$\color{#d41914}close friends}$</summary>  
+
+<br> <a href="https://github.com/watcherbittes">@watcherbittes</a>
+  
+<br> <a href="https://github.com/pouncedeleon">@pouncedeleon</a>
+
+<br> <a href="https://github.com/the-tendersurrender">@the-tendersurrender</a>
+
+<br> <a href="https://github.com/JESTEROFTHEERA">@JESTEROFTHEERA</a>
