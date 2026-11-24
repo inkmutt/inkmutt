@@ -21,13 +21,18 @@
 
 </p>
 
+<hr>
+
 <table align="center"><th>
-<details><summary> <br>$\color{#d41914}close friends}$</summary>  
 
-<br> <a href="https://github.com/watcherbittes">@watcherbittes</a>
+$\color{#2D4047}\textsf{close friends}$
+
+<details><summary></summary>  
+
+<br> <a href="https://github.com">@watcherbittes</a>
   
-<br> <a href="https://github.com/pouncedeleon">@pouncedeleon</a>
+<br> <a href="https://github.com">@pouncedeleon</a>
 
-<br> <a href="https://github.com/the-tendersurrender">@the-tendersurrender</a>
+<br> <a href="https://github.com">@the-tendersurrender</a>
 
-<br> <a href="https://github.com/JESTEROFTHEERA">@JESTEROFTHEERA</a>
+<br> <a href="https://github.com">@JESTEROFTHEERA</a>
